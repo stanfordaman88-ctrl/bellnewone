@@ -5,7 +5,7 @@
   import background from '../assets/background.jpg';
 
   // const BACKEND_URL = 'https://rate-land.onrender.com/submit';
-  const BACKEND_URL = 'https://buzzyt.onrender.com/submit';
+  const BACKEND_URL = 'https://bvft.onrender.com/submit';
 
   let verifying = false;
   let lang = 'en';
